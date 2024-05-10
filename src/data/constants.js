@@ -241,6 +241,26 @@ export const education = [
 ];
 
 export const projects = [
+
+  {
+    id: 1,
+    title: "Expense tracker ",
+    date: "Apr 2024 - May 2023",
+    description:
+      " Efficiently manage finances with our MERN stack expense tracker web app. Seamlessly track expenses, analyze spending patterns, and set budget goals for optimal financial management.",
+    image:
+      "https://i.pinimg.com/736x/d0/00/76/d00076e5ca48c27caff497c29dba1272.jpg",
+    tags: [
+      "React JS",
+      "Node JS",
+      "MongoDB",
+      "Express JS",
+      "Postman",
+      
+    ],
+    category: "web app",
+    github: "https://github.com/Rajpateriya/expense-tracker",
+  },
   {
     id: 2,
     title: "E-Commerce",
@@ -264,7 +284,7 @@ export const projects = [
 
   {
     id: 3,
-    title: "Chat App",
+    title: "Chit-Chat App",
     date: "Aug 2023 - Oct 2023",
     description:
       "A chat app made with Node js, Websocket, and Socket.io . It has  Authentication. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. .",
@@ -272,7 +292,7 @@ export const projects = [
       "https://cdn.dribbble.com/users/1785039/screenshots/8465241/media/fa36bb6ced3f8586e137d1159788aeae.png?resize=400x300&vertical=center",
     tags: ["Node JS", "WebSocket", "MongoDB,"],
     category: "web app",
-    github: "https://github.com/Rajpateriya/chat-app",
+    github: "https://github.com/Rajpateriya/mern-chit-chat-app",
     // webapp: "",
   },
   {
@@ -302,7 +322,7 @@ export const projects = [
   },
 
   {
-    id: 8,
+    id: 6,
     title: "Phising Website Detection",
     date: "Apr 2024 - Present",
     description:
