@@ -324,14 +324,14 @@ export const projects = [
   {
     id: 6,
     title: "Phising Website Detection",
-    date: "Apr 2024 - Present",
+    date: "Apr 2024 - june 2024",
     description:
       "A phishing detection system project employs machine learning, natural language processing, and web scraping to identify fraudulent websites, enhancing cybersecurity with real-time alerts and user education on potential threats.",
     image:
       "https://www.nationaldebtrelief.com/wp-content/uploads/2020/06/5-Phishing-Scams-To-Watch-Out-For-During-The-Pandemic.jpg",
     tags: ["Python", "Keras", "TensorFlow", "NLTK", "MongoDB", "React"],
     category: "machine learning",
-    // github: "https://github.com/Rajpateriya/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/Rajpateriya/phishing_site_detector.git",
     // webapp: "",
   },
 ];
