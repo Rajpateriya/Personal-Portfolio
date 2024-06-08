@@ -6,7 +6,7 @@ export const Bio = {
   github: "https://github.com/Rajpateriya",
   leetcode: "https://leetcode.com/rajpateriya",
   resume:
-    "https://drive.google.com/file/d/1mUnIwJsUflh9BqewgdUv9G5M-2TxeU75/view",
+    "https://drive.google.com/file/d/17KJ3dJTm5fZ1FjOlMjvxQIbVmPeOWvXG/view?usp=sharing",
   linkedin: "http://www.linkedin.com/in/raj-pateriya-891424226",
   twitter: "https://leetcode.com/rajpateriya",
   insta: "https://www.instagram.com/raj.pateriya3",
@@ -163,7 +163,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "data:image/png;base64,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",
+    img:"https://en.pimg.jp/064/495/620/1/64495620.jpg",
     role: "Full Stack Development Intern",
     company: "Freelancing ",
     date: "May 2024 - present",
@@ -260,9 +260,22 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Rajpateriya/expense-tracker",
+    webapp: "https://expense-tracker-smoky-nine.vercel.app/",
   },
   {
     id: 2,
+    title: "MedTech Solutions (HMS)",
+    date: "May 2024 - Present",
+    description:
+      "The Hospital Management System (HMS) integrates patient management, appointments, billing, and inventory, enhancing efficiency and patient care while ensuring compliance. Customizable and scalable, it's backed by expert implementation and ongoing maintenance for smooth operations.",
+    image:
+      "https://media.licdn.com/dms/image/C4E12AQET1KrwtLrNkg/article-cover_image-shrink_600_2000/0/1561376770249?e=2147483647&v=beta&t=cnat4ehN9BEtBO6X6iM3cFjgDRlg2bn1BhIofdiKNnU",
+    tags: ["Java"],
+    category: "web app",
+    github: "https://github.com/Rajpateriya/atm-interface",
+  },
+  {
+    id: 3,
     title: "E-Commerce",
     date: "Mar 2024 - Apr 2023",
     description:
@@ -283,7 +296,7 @@ export const projects = [
   },
 
   {
-    id: 3,
+    id: 4,
     title: "Chit-Chat App",
     date: "Aug 2023 - Oct 2023",
     description:
@@ -295,18 +308,19 @@ export const projects = [
     github: "https://github.com/Rajpateriya/mern-chit-chat-app",
     // webapp: "",
   },
-  {
-    id: 4,
-    title: "ATM-Interface",
-    date: "Dec 2022 - feb 2023",
-    description:
-      "An ATM interface project in Java offers secure banking transactions, including cash withdrawals, deposits, balance inquiries, and fund transfers, utilizing Java’s robust programming capabilities for reliable financial operations",
-    image:
-      "https://i.pinimg.com/originals/dd/dd/cd/ddddcda2b16fc8c3c939eb9381ffe800.png",
-    tags: ["Java"],
-    category: "android app",
-    github: "https://github.com/Rajpateriya/atm-interface",
-  },
+  // {
+  //   id: 4,
+  //   title: "ATM-Interface",
+  //   date: "Dec 2022 - feb 2023",
+  //   description:
+  //     "An ATM interface project in Java offers secure banking transactions, including cash withdrawals, deposits, balance inquiries, and fund transfers, utilizing Java’s robust programming capabilities for reliable financial operations",
+  //   image:
+  //     "https://i.pinimg.com/originals/dd/dd/cd/ddddcda2b16fc8c3c939eb9381ffe800.png",
+  //   tags: ["Java"],
+  //   category: "web app",
+  //   github: "https://github.com/Rajpateriya/atm-interface",
+  // },
+  
   {
     id: 5,
     title: "Task Todo Web App",
