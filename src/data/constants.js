@@ -201,8 +201,8 @@ export const experiences = [
   {
     id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_nbUPQWrbfqVTWIo9fIGz9iPHCKDFQ2HkobXSy7vr9DcQfMVhBN40YigecBaFL8paDM&usqp=CAU",
-    role: "450+ Problems Solved",
-    company: "Leetcode HackerRank GFG",
+    role: "500+ Problems Solved",
+    company: "Leetcode | HackerRank | GFG",
     date: "Apr 2022 - Present",
     desc: "I’ve successfully tackled a multitude of coding challenges on renowned platforms such as LeetCode, GeeksforGeeks, and HackerRank, significantly enhancing my algorithmic proficiency and equipping me with robust problem-solving capabilities for the software development and competitive programming arenas. ",
     skills: ["Java", "Python", "SQL"],
@@ -270,9 +270,14 @@ export const projects = [
       "The Hospital Management System (HMS) integrates patient management, appointments, billing, and inventory, enhancing efficiency and patient care while ensuring compliance. Customizable and scalable, it's backed by expert implementation and ongoing maintenance for smooth operations.",
     image:
       "https://media.licdn.com/dms/image/C4E12AQET1KrwtLrNkg/article-cover_image-shrink_600_2000/0/1561376770249?e=2147483647&v=beta&t=cnat4ehN9BEtBO6X6iM3cFjgDRlg2bn1BhIofdiKNnU",
-    tags: ["Java"],
+    tags: ["React JS",
+    "Node JS",
+    "MongoDB",
+    "Express JS",
+    ],
     category: "web app",
-    github: "https://github.com/Rajpateriya/atm-interface",
+    github: "https://github.com/Rajpateriya/HMS_backend",
+    webapp: "https://medtech-solutions.vercel.app/"
   },
   {
     id: 3,
@@ -292,7 +297,7 @@ export const projects = [
       "JWT",
     ],
     category: "web app",
-    // github: "https://github.com/Rajpateriya/atm-interface",
+    github: "https://github.com/Rajpateriya/e-commerce-backend",
   },
 
   {
