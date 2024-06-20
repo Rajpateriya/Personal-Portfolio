@@ -6,7 +6,7 @@ export const Bio = {
   github: "https://github.com/Rajpateriya",
   leetcode: "https://leetcode.com/rajpateriya",
   resume:
-    "https://drive.google.com/file/d/17KJ3dJTm5fZ1FjOlMjvxQIbVmPeOWvXG/view?usp=sharing",
+    "https://drive.google.com/file/d/1_EBNePVINIozEqNPe4bXH2E9FqbiPckj/view?usp=sharing",
   linkedin: "http://www.linkedin.com/in/raj-pateriya-891424226",
   twitter: "https://leetcode.com/rajpateriya",
   insta: "https://www.instagram.com/raj.pateriya3",
