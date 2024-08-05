@@ -6,7 +6,7 @@ export const Bio = {
   github: "https://github.com/Rajpateriya",
   leetcode: "https://leetcode.com/rajpateriya",
   resume:
-    "https://drive.google.com/file/d/1RFP0zKmBaaLwlxTLgZcj674uUhQ34OOx/view?usp=sharing",
+    "https://drive.google.com/file/d/11qKkd1m5n4p-K_XJDWgw06CWA0ZU_rIG/view?usp=sharing",
   linkedin: "http://www.linkedin.com/in/raj-pateriya-891424226",
   twitter: "https://leetcode.com/rajpateriya",
   insta: "https://www.instagram.com/raj.pateriya3",
@@ -126,11 +126,11 @@ export const skills = [
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
-      // {
-      //   name: "Docker",
-      //   image:
-      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-      // },
+      {
+        name: "Docker",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
+      },
       {
         name: "Netlify",
         image:
@@ -161,13 +161,30 @@ export const skills = [
 ];
 
 export const experiences = [
+
   {
     id: 0,
     img: "https://en.pimg.jp/064/495/620/1/64495620.jpg",
-    role: "Full Stack Developer",
-    company: "StudySync",
-    date: "Apr 2024 - Jun 2024",
+    role: "Frontend Developer",
+    company: "Webrass",
+    date: "Jun 2024 - July 2024",
     desc: "As a Full Stack Development Intern, I handled frontend and backend tasks using React.js, Node.js, and PostgresSQL. Built responsive interfaces and implemented RESTful APIs, gaining comprehensive development experience.",
+    skills: [
+      "HTML",
+      "CSS/Tailwind",
+      "JavaScript",
+      "ReactJS",
+      "Redux"
+    ],
+    // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+  },
+  {
+    id: 1,
+    img: "https://en.pimg.jp/064/495/620/1/64495620.jpg",
+    role: "Full Stack Developer",
+    company: "Freelance Work",
+    date: "Apr 2024 - May 2024",
+    desc: "As a Full Stack Developer Intern, I handled frontend and backend tasks using React.js, Node.js, and PostgresSQL. Built responsive interfaces and implemented RESTful APIs, gaining comprehensive development experience.",
     skills: [
       "ReactJS",
       "NodeJs",
@@ -180,18 +197,18 @@ export const experiences = [
   },
 
   {
-    id: 1,
+    id: 2,
     img: "https://media.licdn.com/dms/image/C4D0BAQFGN_-k_ECYzw/company-logo_200_200/0/1676559966105/simplbyte_logo?e=2147483647&v=beta&t=uhT1QUwSQQV83nrE3ZenV7xmM_GVTf6Y3gVcmfp9Wq4",
     role: "Backend Developer",
     company: "Simplbyte",
-    date: "April 2023 - July 2023",
+    date: "April 2023 - Oct 2023",
     desc: "Developed scalable RESTful APIs adhering to industry standards, optimizing application performance & implemented MongoDB for efficient data storage and retrieval, enhancing backend functionalities..",
     skills: ["NodeJs", "MongoDB", "ExpressJs", "Rest API", "JavaScript"],
     // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   },
 
   {
-    id: 2,
+    id: 3,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_nbUPQWrbfqVTWIo9fIGz9iPHCKDFQ2HkobXSy7vr9DcQfMVhBN40YigecBaFL8paDM&usqp=CAU",
     role: "500+ Problems Solved",
     company: "Leetcode | HackerRank | GFG",
@@ -234,9 +251,32 @@ export const education = [
 
 export const projects = [
   {
+    id: 0,
+    title: "Code-journey",
+    date: "May 2024 - Present",
+    description:
+      "Developing integrated platform that consolidates the functionalities of prominent coding profiles from major platforms into a unified dashboard. Implemented RESTful APIs and real-time synchronization. Improved profile sharing efficiency by 75cent and increased user engagement by 40cent. Streamlines recruitment with a single, shareable link.",
+    image:
+      "https://static.startuptalky.com/2022/11/best-coding-platforms-engineers-must-know-startuptalky--3-.jpg",
+    tags: [
+      "JavaScript",
+      "ReactJS",
+     
+      "Rest API",
+      "NodeJS",
+      "MongoDB",
+      "ExpressJS",
+      "Tailwind",
+    ],
+    category: "web app",
+    github: "https://github.com/Rajpateriya/code-journey",
+    webapp: "https://code-journey-profile.vercel.app/",
+  },
+
+  {
     id: 1,
     title: "EduNavigator",
-    date: "May 2024 - Present",
+    date: "Feb 2024 - July 2024",
     description:
       "Developing an Academic Administration Application to manage student registrations,assignments, attendance and faculty interactions. Features include automated scheduling, progress tracking, management of administrative tasks, enhancing efficiency and user experience with modern web technologies and a user-friendly interface.",
     image:
