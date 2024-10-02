@@ -238,15 +238,15 @@ export const education = [
     desc: "I completed my class 12 high school education at Jawahar Navodaya Vidyalaya ,Chhatarpur, where I studied Science with Computer Applications.",
     degree: "CBSE(XII), Science",
   },
-  {
-    id: 2,
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/90/JNV_Logo.jpg",
-    school: "Jawahar Navodaya Vidyalaya,Chhatarpur",
-    date: "Apr 2018",
-    grade: "88%",
-    desc: "I completed my class 10 education at Jawahar Navodaya Vidyalaya ,Chhatarpur, where I studied Science .",
-    degree: "CBSE(X), Science ",
-  },
+  // {
+  //   id: 2,
+  //   img: "https://upload.wikimedia.org/wikipedia/commons/9/90/JNV_Logo.jpg",
+  //   school: "Jawahar Navodaya Vidyalaya,Chhatarpur",
+  //   date: "Apr 2018",
+  //   grade: "88%",
+  //   desc: "I completed my class 10 education at Jawahar Navodaya Vidyalaya ,Chhatarpur, where I studied Science .",
+  //   degree: "CBSE(X), Science ",
+  // },
 ];
 
 export const projects = [
